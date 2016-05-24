@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+	<!-- Icons -->
+	<!-- Material Design Icons by Templarian - https://github.com/Templarian/MaterialDesign -->
+	<icons>
+		<set_16px>
+			<icon name="box-green"/>
+			<icon name="box-blue"/>
+			<icon name="box-red"/>
+			<icon name="box-gray"/>
+			<icon name="film"/>
+			<icon name="magnify"/>
+			<icon name="folder"/>
+			<icon name="app-blue"/>
+			<icon name="app-gray"/>
+			<icon name="refresh"/>
+			<icon name="download"/>
+			<icon name="settings"/>
+			<icon name="delete"/>
+			<icon name="plus"/>
+			<icon name="minus"/>
+			<icon name="arrow-up"/>
+			<icon name="arrow-down"/>
+			<icon name="funnel-small"/>
+			<icon name="filter-remove"/>
+			<icon name="filter"/>
+			<icon name="filter"/>
+			<icon name="filter"/>
+			<icon name="calendar"/>
+			<icon name="group"/>
+			<icon name="sort"/>
+			<icon name="message"/>
+			<icon name="clock"/>
+			<icon name="home"/>
+			<icon name="list"/>
+			<icon name="chart"/>
+			<icon name="rss"/>
+			<icon name="view"/>
+			<icon name="import"/>
+			<icon name="export"/>
+		</set_16px>
+		<set_24px>
+			<icon name="sync"/>
+			<icon name="folder-multiple"/>
+			<icon name="exit-to-app"/>
+			<icon name="settings"/>
+			<icon name="taiga"/>
+			<icon name="earth"/>
+			<icon name="package"/>
+			<icon name="monitor"/>
+			<icon name="help"/>
+			<icon name="share"/>
+			<icon name="rss"/>
+		</set_24px>
+	</icons>
+
+	<!-- List -->
+	<list>
+		<progress>
+			<border      type="solid" value_1="E0E0E0"/>
+			<background  type="solid" value_1="FAFAFA"/>
+			<button      type="solid" value_1="646464"/>
+			<separator   type="solid" value_1="E0E0E0"/>
+			<watching    type="solid" value_1="00C853"/>
+			<completed   type="solid" value_1="00C853"/>
+			<onhold      type="solid" value_1="00C853"/>
+			<dropped     type="solid" value_1="00C853"/>
+			<plantowatch type="solid" value_1="00C853"/>
+			<available   type="solid" value_1="0091EA"/>
+			<aired       type="solid" value_1="EBEBEB"/>
+		</progress>
+	</list>
+</theme>
